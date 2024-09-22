@@ -1,6 +1,6 @@
 package transport;
 
-public class Track extends Car{
+public class Track extends Auto {
 
     public Track(String name, int wheelsCount) {
         super(name, wheelsCount);

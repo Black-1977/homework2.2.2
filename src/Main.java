@@ -1,7 +1,4 @@
-import transport.Bicycle;
-import transport.Car;
-import transport.ServiceStation;
-import transport.Track;
+import transport.*;
 
 public class Main {
     public static void main(String[] args) {
